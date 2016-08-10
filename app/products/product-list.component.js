@@ -20,7 +20,7 @@ System.register(['angular2/core'], function(exports_1, context_1) {
         execute: function() {
             ProductListComponent = (function () {
                 function ProductListComponent() {
-                    this.pageTitle = 'Product List';
+                    this.pageTitle = 'Product List?';
                     this.imageWidth = 50;
                     this.imageMargin = 2;
                     this.showImage = false;

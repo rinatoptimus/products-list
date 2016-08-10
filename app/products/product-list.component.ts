@@ -4,7 +4,7 @@ import {Component} from 'angular2/core';
     templateUrl: 'app/products/product-list.component.html'
 })
 export class ProductListComponent {
-    pageTitle: string = 'Product List';
+    pageTitle: string = 'Product List?';
     imageWidth: number = 50;
     imageMargin: number = 2;
     showImage: boolean = false;

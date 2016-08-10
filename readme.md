@@ -1,3 +1,6 @@
+Products list - a simple SPA. 
+ES6, TypeScript, Angular 2.
+
 1) Open a command prompt in the project's root directory (APM - Start)
 
 2) Type: `npm install`

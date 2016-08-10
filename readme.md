@@ -1,4 +1,4 @@
-#products-list
+# products-list
 A simple SPA. ES6, TypeScript, Angular 2.
 
 1) Open a command prompt in the project's root directory (APM - Start)
